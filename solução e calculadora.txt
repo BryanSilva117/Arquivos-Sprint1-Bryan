@@ -1,0 +1,86 @@
+Solução proposta
+
+Bom, nossa Solução proposta é usar sensores de umidade no solo do gramado para coletar dados
+e determinar quando será necessario ativar ou desativar os sistemas de irrigação e drenagem do estadio.
+
+para isso será criado uma plataforma de monitoramento remoto para receber alerta em casos de problemas,
+
+assim possivelmente evitando que o gramado do estadio fique imcapacitado para receber partidas de futebol.
+
+
+
+Simulador financeiro
+
+No simulador financeiro nos tem como objetivo mostrar para o nosso cliente os prejuizos que ele teve
+por conta de cancelamentos de partidas gerando multas, atraso, e reforma ou substituição do gramados por causa de chuvas fortes
+no estadio.
+
+então a calaculadora financeira pergunta;
+
+O nome do estádio do cliente;
+quantas partidas foi cancelada por conta de alagamento;
+quantas vezes a partida atrasou;
+qual foi a media em minutos de atraso nas partidas;
+quanto custou cada partida 
+quantas vezes teve que reformar ou substituir o gramado danificado;
+e qual foi a media de custo das reformas;
+
+Assim vai mostrar para o nosso cliente a analise de gasto
+
+mostrando o custo das multas que recebeu devido ao cancelamento da partida
+
+o total de atraso em minutos e o que teve que pagar
+
+o total que ele gastou fazendo reforma
+
+e o prejuizo total que ele teve somando todos os ultimos gastos
+
+no final dizendo que esses prejuizo pode ser reduzido ou até zerado contratando nossa empresa.
+
+
+
+no codigos nos usou um css basico deixar a calculadora visualmente um pouco mais bonito.
+
+dentro do body usamos h1 para o titulo da calculadora 
+
+usamos o paragrafo para mostrar um pequeno texto de inicio
+
+criamos uma div para cada input que é as pergunta da calculadora.
+
+criamos o botão chamado (calcular_gasto) q serve para mostra as irformaçoes dentro de uma funcão
+
+no final do body tem um paragrafo vazio chamado (p_resultado) para mostrar os resultados
+
+
+criamos uma função (calcular_gasto) dentro do script criamos uma função (calcular_gasto)
+ 
+criamos uma variavel para cada input do body
+
+e criamos uma variavel para cada calculo como
+
+variavel do custo de cancelamento da partida
+
+variavel do custo do atraso da partida
+
+variavel do custo das reformas
+
+e uma variavel do prejuizo total
+
+
+dai usamos o p_resultado para mostrar algumas informações e ulizar os as variavels quando o botão calcular_gasto for pressionado
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

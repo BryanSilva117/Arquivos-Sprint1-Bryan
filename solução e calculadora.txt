@@ -5,15 +5,15 @@ e determinar quando será necessario ativar ou desativar os sistemas de irrigaç
 
 para isso será criado uma plataforma de monitoramento remoto para receber alerta em casos de problemas,
 
-assim possivelmente evitando que o gramado do estadio fique imcapacitado para receber partidas de futebol.
+assim possivelmente evitando que o gramado do estadio fique incapacitado para receber partidas de futebol.
 
 
 
 Simulador financeiro
 
 No simulador financeiro nos tem como objetivo mostrar para o nosso cliente os prejuizos que ele teve
-por conta de cancelamentos de partidas gerando multas, atraso, e reforma ou substituição do gramados por causa de chuvas fortes
-no estadio.
+por conta de cancelamentos de partidas e atrasos que acaba gerando multas, e reforma 
+ou substituição do gramados causada po chuvas fortes no estadio.
 
 então a calaculadora financeira pergunta;
 
@@ -67,7 +67,8 @@ variavel do custo das reformas
 e uma variavel do prejuizo total
 
 
-dai usamos o p_resultado para mostrar algumas informações e ulizar os as variavels quando o botão calcular_gasto for pressionado
+dai usamos o p_resultado para mostrar algumas informações e ulizar os as variavels quando o 
+botão calcular_gasto for pressionado
 
 
 
